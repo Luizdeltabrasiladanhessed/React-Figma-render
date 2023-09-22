@@ -8,4 +8,5 @@ Um renderizador React para Figma. Use componentes React como fonte para seus des
 ⚙️ Built on Figma Plugin API.
 🚫 Is not a code generator.
 
-![Uploading 89524327-09365c80-d7ed-11ea-9cb1-08f6fd56a350.gif…]()
+
+![Uploading 89524327-09365c80-d7ed-11ea-9cb1-08f6fd56a350.gif…](https://user-images.githubusercontent.com/1270648/89524327-09365c80-d7ed-11ea-9cb1-08f6fd56a350.gif)
